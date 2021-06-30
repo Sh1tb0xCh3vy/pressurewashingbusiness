@@ -1,2 +1,2 @@
-# pressurewashingbusiness
-a basic pressure washing business website.
+# pressure.washing.business
+a basic pressure washing business website made by andrew vanetten.
